@@ -1,0 +1,8 @@
+path: D:/yolo/datasets
+train: images
+val: images
+names:
+  0: standing_person
+  1: dangerous_behavior
+  2: weapon
+  3: high_place
